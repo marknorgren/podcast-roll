@@ -9,5 +9,6 @@ podcast-roll
   * http://feeds.muleradio.net/thetalkshow
 * Security Now
   * http://twit.tv/sn
+  * [Notes](sn-notes.md)
 
 
