@@ -10,5 +10,7 @@ podcast-roll
 * Security Now
   * http://twit.tv/sn
   * [Notes](sn-notes.md)
-
+* Pragmatic
+  * http://techdistortion.com/podcasts/pragmatic
+  * [Notes](pragmatic-podcast-notes.md)
 
